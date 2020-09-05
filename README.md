@@ -5,7 +5,7 @@ I am **Yash Gajera** working as **Team Lead @OIT Help Desk RU-N IT**. I am a **C
 ---
 - 👍 Looking for opportunities to join as an co-op/full time candidate in **software engineering**, **full stack development**, **machine learning** teams.
 - 🌱 Learning all about **React Native, SQL Tuning,and Machine Learning**.
-- 👨‍💻  Currently focused on finishing [my personal website](https://github.com/gajeraYash/yashg2).
+- 👨‍💻  Currently focused on [Deep Learning Nano Degree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 - 🤝 Looking to collaborate on open source/commercial projects.
 - 💬 Ping me about **videogames**, **food**, **photography**, **development**, and **project design**.
 

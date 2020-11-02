@@ -1,6 +1,6 @@
 ### Hello there,
 
-I am **Yash Gajera** working as **Team Lead @OIT Help Desk RU-N IT**. I am a **Computer Science** major and minor in **Mathematics** **@Rutgers University-Newark**. I have experience with **Fullstack and Mobile Development** and a demonstrated history of working in the information technology and telecommunication industry. **Skilled in Python, Angular, C/C++, React, NodeJS, MySQL, REST API's,and Springboot.**
+I am **Yash Gajera** working as **Team Lead @OIT Help Desk RU-N IT**. I am a **Computer Science** major and minor in **Mathematics** **@Rutgers University-Newark**. I have experience with **Fullstack and Mobile Development** and a demonstrated history of working in the information technology and telecommunication industry. **Skilled in Python, Angular, C/C++, React, Django, CI/CD, MySQL, REST API's,and Springboot.**
 
 ---
 - 👍 Looking for opportunities to join as an co-op/full time candidate in **software engineering**, **full stack development**, **machine learning** teams.

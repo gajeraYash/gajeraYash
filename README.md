@@ -3,7 +3,7 @@
 I am **Yash Gajera** working as **Team Lead @OIT Help Desk RU-N IT**. I am a **Computer Science** major and minor in **Mathematics** **@Rutgers University-Newark**. I have experience with **Fullstack and Mobile Development** and a demonstrated history of working in the information technology and telecommunication industry. **Skilled in Python, Angular, C/C++, React, Django, CI/CD, MySQL, REST API's,and Springboot.**
 
 ---
-- 👍 Looking for opportunities to join as an co-op/full time candidate in **software engineering**, **full stack development**, **machine learning** teams.
+- 🚀 CI Intern at [NASA Langley Research Center](https://www.google.com/search?q=nasa+post+2&sourceid=ie7&rls=com.microsoft:en-US:{referrer:source}&ie=UTF-8&oe=)
 - 🌱 Learning all about **React Native, SQL Tuning,and Machine Learning**.
 - 👨‍💻  Currently focused on [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 - 🤝 Looking to collaborate on open source/commercial projects.

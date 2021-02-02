@@ -1,6 +1,6 @@
 ### Hello there,
 
-I am **Yash Gajera** working as **Team Lead @OIT Help Desk RU-N IT**. I am a **Computer Science** major and minor in **Mathematics** **@Rutgers University-Newark**. I have experience with **Fullstack and Mobile Development** and a demonstrated history of working in the information technology and telecommunication industry. **Skilled in Python, Angular, C/C++, React, Django, CI/CD, MySQL, REST API's,and Springboot.**
+I am **Yash Gajera** and I am interning at **NASA - Langley Research Center as CI Engineer Intern** also working as **Team Lead @OIT Help Desk RU-N IT**. I am a **Computer Science** major and minor in **Mathematics** **@Rutgers University-Newark**. I have experience with **Fullstack and Mobile Development** and a demonstrated history of working in the information technology and telecommunication industry. **Skilled in Python, Angular, C/C++, React, Django, CI/CD, MySQL, REST API's,and Springboot.**
 
 ---
 - 🚀 CI Intern at [NASA Langley Research Center](https://www.google.com/search?q=nasa+post+2&sourceid=ie7&rls=com.microsoft:en-US:{referrer:source}&ie=UTF-8&oe=)

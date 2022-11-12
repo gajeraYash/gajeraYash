@@ -1,14 +1,12 @@
 ### Hello there,
 
-I am **Yash Gajera** and I am interning at **NASA - Langley Research Center as CI Engineer Intern** also working as **Team Lead @OIT Help Desk RU-N IT**. I am a **Computer Science** major and minor in **Mathematics** **@Rutgers University-Newark**. I have experience with **Fullstack and Mobile Development** and a demonstrated history of working in the information technology and telecommunication industry. **Skilled in Python, Angular, C/C++, React, Django, CI/CD, MySQL, REST API's,and Springboot.**
+I am **Yash Gajera** and I am a **MTS 1 - Systems Enginer** at **Verizon**. I am a **Computer Science** major and minor in **Mathematics** graduate from **@Rutgers University-Newark**. I am currently working in many areas such as **AIOps - Moogsoft**, **Cloud Tech-Ops**, **Production Support**, **SRE**, **Scripting**. I have experience with **Fullstack and Mobile Development** and a demonstrated history of working in the information technology and telecommunication industry. **Skilled in Python, C/C++, Django, CI/CD, REST API's, and Linux**
 
 ---
-- 🚀 CI Intern at [NASA Langley Research Center](https://www.google.com/search?q=nasa+post+2&sourceid=ie7&rls=com.microsoft:en-US:{referrer:source}&ie=UTF-8&oe=)
-- 🌱 Learning all about **React Native, SQL Tuning,and Machine Learning**.
-- 👨‍💻  Currently focused on [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
-- 🤝 Looking to collaborate on open source/commercial projects.
-- 💬 Ping me about **videogames**, **food**, **photography**, **development**, and **project design**.
-
+- 🚀 Expanding my experience in **AIOps & AWS**. 
+- 🌱 Learning all about **AWS, Azure,and Cloud Native Architecture**.
+- 👨‍💻 Currently focused on **yashgajera.io v3**
+- 🤝 Looking to collaborate on financial and AI projects. 
 ---
 <p align="center"><br />
   <a href="https://www.linkedin.com/in/yashgajera/">

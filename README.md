@@ -5,9 +5,8 @@ class Engineer:
 
     def __init__(self):
         self.name = "Yash Gajera"
-        self.title = "Systems Engineer"
+        self.title = "Engr III - Cslt Full Stack"
         self.employer = "Verizon"
-        self.duties = ["SRE", "AIOps", "Cloud Tech-Ops", "Automation Scripting"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
